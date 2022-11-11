@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "android_device_google_pantah",
+    "target_path": "device/google/pantah"
+  },
+  {
+    "repository": "anayw2001/vendor_google_devices_panther",
+    "target_path": "vendor/google_devices/panther",
+    "remote": "gitlab"
+  }
+]
